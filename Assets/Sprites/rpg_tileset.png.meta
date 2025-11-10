@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 897be7ac1fde6b647945ebca0a8a100f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -285109594472483434
+    second: rpg_tileset_0
+  - first:
+      213: 6376598394750184241
+    second: rpg_tileset_1
+  - first:
+      213: -5537154263977417302
+    second: rpg_tileset_2
+  - first:
+      213: 508938715558550075
+    second: rpg_tileset_3
+  - first:
+      213: -1272577451919656199
+    second: rpg_tileset_4
+  - first:
+      213: -4702057636083618857
+    second: rpg_tileset_5
+  - first:
+      213: -9077579485504052625
+    second: rpg_tileset_6
+  - first:
+      213: -3574757064558395413
+    second: rpg_tileset_7
+  - first:
+      213: -9011885734970417105
+    second: rpg_tileset_8
+  - first:
+      213: 6369197325919578662
+    second: rpg_tileset_9
+  - first:
+      213: -3505694797075771944
+    second: rpg_tileset_10
+  - first:
+      213: -1643899507977178916
+    second: rpg_tileset_11
+  - first:
+      213: -8250779711487136090
+    second: rpg_tileset_12
+  - first:
+      213: -8724846001108612413
+    second: rpg_tileset_13
+  - first:
+      213: 3928628877398353726
+    second: rpg_tileset_14
+  - first:
+      213: -1099137245921475303
+    second: rpg_tileset_15
+  - first:
+      213: 1351144171484914471
+    second: rpg_tileset_16
+  - first:
+      213: -4179738360910258150
+    second: rpg_tileset_17
+  - first:
+      213: -2834288972118186916
+    second: rpg_tileset_18
+  - first:
+      213: 871585186116380762
+    second: rpg_tileset_19
+  - first:
+      213: 7691105707970631341
+    second: rpg_tileset_20
+  - first:
+      213: -7915247253975966694
+    second: rpg_tileset_21
+  - first:
+      213: 4943704217148375319
+    second: rpg_tileset_22
+  - first:
+      213: -5363185141598046799
+    second: rpg_tileset_23
+  - first:
+      213: -5546105660266286977
+    second: rpg_tileset_24
+  - first:
+      213: -54074013352749794
+    second: rpg_tileset_25
+  - first:
+      213: 3021007590654743715
+    second: rpg_tileset_26
+  - first:
+      213: 6629563789345579022
+    second: rpg_tileset_27
+  - first:
+      213: -3047330885497604208
+    second: rpg_tileset_28
+  - first:
+      213: -4332842688433118686
+    second: rpg_tileset_29
+  - first:
+      213: -2519736261407927107
+    second: rpg_tileset_30
+  - first:
+      213: 8845536276029191948
+    second: rpg_tileset_31
+  - first:
+      213: -7084794639945874969
+    second: rpg_tileset_32
+  - first:
+      213: 1101911330469317988
+    second: rpg_tileset_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 399
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695796b95561b0cf0800000000000000
+      internalID: -285109594472483434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 399
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b2962947a3e7850800000000000000
+      internalID: 6376598394750184241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 447
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa52615b8831823b0800000000000000
+      internalID: -5537154263977417302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 447
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9f49b01d101700800000000000000
+      internalID: 508938715558550075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 319
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa3825cc85e65ee0800000000000000
+      internalID: -1272577451919656199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 383
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dba2d71e7feebeb0800000000000000
+      internalID: -4702057636083618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 383
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6268229d85f50280800000000000000
+      internalID: -9077579485504052625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befbda0c369e36ec0800000000000000
+      internalID: -3574757064558395413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 260
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20adaacba95fe280800000000000000
+      internalID: -9011885734970417105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 319
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aedc3f83fe36850800000000000000
+      internalID: 6369197325919578662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 319
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd0d51f725495fc0800000000000000
+      internalID: -3505694797075771944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 319
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b4947b12bf29e0800000000000000
+      internalID: -1643899507977178916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 319
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae2fc021975f7d80800000000000000
+      internalID: -8250779711487136090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 319
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0fe7c9ce1be680800000000000000
+      internalID: -8724846001108612413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 262
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37aba3362b458630800000000000000
+      internalID: 3928628877398353726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 291
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91503719f741fb0f0800000000000000
+      internalID: -1099137245921475303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723a2bd177a30c210800000000000000
+      internalID: 1351144171484914471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 291
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10eedf1b169ef5c0800000000000000
+      internalID: -4179738360910258150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54a61252359aa8d0800000000000000
+      internalID: -2834288972118186916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a5f1eb1e781c00800000000000000
+      internalID: 871585186116380762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6919564eb4cba60800000000000000
+      internalID: 7691105707970631341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 275
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c506d2f84672290800000000000000
+      internalID: -7915247253975966694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 274
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711cab9eac09b9440800000000000000
+      internalID: 4943704217148375319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 275
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5356277832295b0800000000000000
+      internalID: -5363185141598046799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 259
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f707b0959464803b0800000000000000
+      internalID: -5546105660266286977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15978aa8f3ef3ff0800000000000000
+      internalID: -54074013352749794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a41cb0d566cce920800000000000000
+      internalID: 3021007590654743715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e006cb73421f00c50800000000000000
+      internalID: 6629563789345579022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 259
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b6d084b4b5b5d0800000000000000
+      internalID: -3047330885497604208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 140
+        width: 240
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222ab400886aed3c0800000000000000
+      internalID: -4332842688433118686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db41c1b6839180dd0800000000000000
+      internalID: -2519736261407927107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 143
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c073d8c9068a1ca70800000000000000
+      internalID: 8845536276029191948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 24
+        width: 212
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e14f63dfc0cdad90800000000000000
+      internalID: -7084794639945874969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 39
+        width: 115
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0a925486ca4f00800000000000000
+      internalID: 1101911330469317988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rpg_tileset_0: -285109594472483434
+      rpg_tileset_1: 6376598394750184241
+      rpg_tileset_10: -3505694797075771944
+      rpg_tileset_11: -1643899507977178916
+      rpg_tileset_12: -8250779711487136090
+      rpg_tileset_13: -8724846001108612413
+      rpg_tileset_14: 3928628877398353726
+      rpg_tileset_15: -1099137245921475303
+      rpg_tileset_16: 1351144171484914471
+      rpg_tileset_17: -4179738360910258150
+      rpg_tileset_18: -2834288972118186916
+      rpg_tileset_19: 871585186116380762
+      rpg_tileset_2: -5537154263977417302
+      rpg_tileset_20: 7691105707970631341
+      rpg_tileset_21: -7915247253975966694
+      rpg_tileset_22: 4943704217148375319
+      rpg_tileset_23: -5363185141598046799
+      rpg_tileset_24: -5546105660266286977
+      rpg_tileset_25: -54074013352749794
+      rpg_tileset_26: 3021007590654743715
+      rpg_tileset_27: 6629563789345579022
+      rpg_tileset_28: -3047330885497604208
+      rpg_tileset_29: -4332842688433118686
+      rpg_tileset_3: 508938715558550075
+      rpg_tileset_30: -2519736261407927107
+      rpg_tileset_31: 8845536276029191948
+      rpg_tileset_32: -7084794639945874969
+      rpg_tileset_33: 1101911330469317988
+      rpg_tileset_4: -1272577451919656199
+      rpg_tileset_5: -4702057636083618857
+      rpg_tileset_6: -9077579485504052625
+      rpg_tileset_7: -3574757064558395413
+      rpg_tileset_8: -9011885734970417105
+      rpg_tileset_9: 6369197325919578662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
