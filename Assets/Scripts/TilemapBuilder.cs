@@ -16,6 +16,9 @@ public class TilemapBuilder : Builder
     public Tilemap backgroundTilemap;
     [SerializeField] private Tilemap foregroundTilemap;
     [SerializeField] private Tilemap interactionTilemap;
+    [SerializeField] private Tilemap unitsTilemap;
+    [SerializeField] private bool clearUnitsOnGenerate = true;
+
 
     public override void Initialize()
     {
@@ -27,6 +30,13 @@ public class TilemapBuilder : Builder
     {
         StopAllCoroutines();
         backgroundTilemap.ClearAllTiles();
+        foregroundTilemap.ClearAllTiles();
+        interactionTilemap.ClearAllTiles();
+
+        if (clearUnitsOnGenerate && unitsTilemap != null)
+        {
+            unitsTilemap.ClearAllTiles();
+        }
     }
 
     [ContextMenu("Generate Grid")]
@@ -87,7 +97,7 @@ public class TilemapBuilder : Builder
         {
             foregroundTilemap.SetTile(tilePos, tile);
         }
-        if (interactionTilemap != null)
+        if (interactionTilemap != null && biome >= 2)
         {
             interactionTilemap.SetTile(tilePos, tile);
         }
