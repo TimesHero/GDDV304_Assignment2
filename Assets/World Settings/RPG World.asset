@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5b6081ec8e333843af883cc349d6bea, type: 3}
   m_Name: RPG World
   m_EditorClassIdentifier: 
-  width: 128
-  height: 128
+  width: 256
+  height: 256
   biomes:
   - BiomeName: Water
     BiomeThreshold: 0.2

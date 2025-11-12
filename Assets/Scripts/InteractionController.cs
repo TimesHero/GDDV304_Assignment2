@@ -1,4 +1,4 @@
-using UnityEngine.EventSystems;
+ using UnityEngine.EventSystems;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -35,7 +35,8 @@ public class InteractionController : MonoBehaviour
             if (cursor.HitInfo)
             {
                 openPosition = cursor.TileScreenPosition;
-                spawnPosition = cursor.MouseTilemapPosition;
+                spawnPosition = unitTilemap.WorldToCell(cursor.MouseWorldPosition);
+
                 StartCoroutine(OpenPanel());
             }
             else if (isOpen)
@@ -62,7 +63,7 @@ public class InteractionController : MonoBehaviour
         isOpen = true;
     }
 
-    private IEnumerator ClosePanel()
+    public IEnumerator ClosePanel()
     {
         panelAnimator.Play(popOutState);
         float animationDuration = panelAnimator.GetCurrentAnimatorStateInfo(0).length;
@@ -77,7 +78,7 @@ public class InteractionController : MonoBehaviour
     {
         TowerType which = System.Enum.Parse<TowerType>(whichTower);
 
-        switch(which)
+        switch (which)
         {
             case TowerType.Arrow:
                 unitTilemap.SetTile(spawnPosition, unitTiles[0]);
@@ -86,5 +87,6 @@ public class InteractionController : MonoBehaviour
                 unitTilemap.SetTile(spawnPosition, unitTiles[1]);
                 break;
         }
+        StartCoroutine(ClosePanel());
     }
 }

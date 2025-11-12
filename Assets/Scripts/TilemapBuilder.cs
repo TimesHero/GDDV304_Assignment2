@@ -1,5 +1,4 @@
 using System.Collections;
-
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -14,7 +13,9 @@ public class TilemapBuilder : Builder
     }
 
     public WorldSettings settings;
-    public Tilemap tilemap;
+    public Tilemap backgroundTilemap;
+    [SerializeField] private Tilemap foregroundTilemap;
+    [SerializeField] private Tilemap interactionTilemap;
 
     public override void Initialize()
     {
@@ -25,7 +26,7 @@ public class TilemapBuilder : Builder
     public override void ClearGrid()
     {
         StopAllCoroutines();
-        tilemap.ClearAllTiles();
+        backgroundTilemap.ClearAllTiles();
     }
 
     [ContextMenu("Generate Grid")]
@@ -77,8 +78,20 @@ public class TilemapBuilder : Builder
 
     private void AddTile(int x, int y, int biome)
     {
-        Vector3Int tilePos = new (x, y, 0);
-        tilemap.SetTile(tilePos, settings.tiles[biome]);
+        Vector3Int tilePos = new(x, y, 0);
+        TileBase tile = settings.tiles[biome];
+
+        backgroundTilemap.SetTile(tilePos, settings.tiles[biome]);
+
+        if (foregroundTilemap != null)
+        {
+            foregroundTilemap.SetTile(tilePos, tile);
+        }
+        if (interactionTilemap != null)
+        {
+            interactionTilemap.SetTile(tilePos, tile);
+        }
+
     }
 
     public override void LoadGrid(int[,] grid)
